@@ -46,7 +46,7 @@ The solution must meet the following four criteria:
 
 # SCREENSHOTS AND VIDEO
 [Walkthrough Video]()
-![Screenshot](100-game-functionality.gif)
+![Screenshot](./images/100-game-functionality.gif)
 # LINKS
 * [Link to the code repository](https://github.com/kitchen-boy/jest-another-RPG)
 * [Link of deployed webpage]()
