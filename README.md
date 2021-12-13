@@ -34,9 +34,9 @@ The solution must meet the following four criteria:
 # INSTALLATION SETUP
 
 # FEATURES:
-Object-oriented programming (OOP) is a popular programming paradigm in which code is organized around objects instead of functions. This approach has the added advantage of helping us follow DRY practices.
+* Object-oriented programming (OOP) is a popular programming paradigm in which code is organized around objects instead of functions. This approach has the added advantage of helping us follow DRY practices.
 
-Test-driven development (TDD) is the practice of writing tests before writing code. Here's a snapshot of the TDD process:
+* Test-driven development (TDD) is the practice of writing tests before writing code. Here's a snapshot of the TDD process:
 1. Write a failing test before writing any code.
 2. Write the minimal amount of code necessary to make the test pass.
 3. Refactor the code.

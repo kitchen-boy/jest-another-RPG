@@ -1,0 +1,23 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "# Table of Contents: * [Project Description](#description) * [Task Completed](#task-completed) * [User Story](#user-story) * [Acceptance Criteria](#acceptance-criteria) * [Installation](#installation-setup) * [Features](#features) * [Testing](#testing) * [Screenshots and Video Link of application](#screenshots-and-video) * [Links](#links) * [Credits](#credits)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kitchen-boy/jest-another-RPG.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kitchen-boy/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/kitchen-boy/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
