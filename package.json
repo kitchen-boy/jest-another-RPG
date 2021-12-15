@@ -4,7 +4,7 @@
   "description": "# Table of Contents: * [Project Description](#description) * [Task Completed](#task-completed) * [User Story](#user-story) * [Acceptance Criteria](#acceptance-criteria) * [Installation](#installation-setup) * [Features](#features) * [Testing](#testing) * [Screenshots and Video Link of application](#screenshots-and-video) * [Links](#links) * [Credits](#credits)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "homepage": "https://github.com/kitchen-boy/jest-another-RPG#readme",
   "dependencies": {
     "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
   }
 }
