@@ -9,4 +9,13 @@ test('creates a health potion object', () => {
     // The expect.any() method takes a constructor as an argument.
     // Here, we're expecting that the value property is created with a Number()constructor.
   });
+
+test('creates a random potion object', () => {
+  const potion = new Potion();
+// Note we won't check to see if the potion has a name value of health.
+// We could have written a test that checks to see if name is health, strength, or agility.
+  expect(potion.name).toEqual(expect.any(String));
+  expect(potion.name.length).toBeGreaterThan(0);
+  expect(potion.value).toEqual(expect.any(Number));
+});  
   
